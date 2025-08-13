@@ -1,29 +1,25 @@
-# CV_Example
+# CV_KeiverRumbo
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Keiver Vladimir Rumbo Pérez 
+**Profesión:**Analisis y desarrollo de software 
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Teléfono:** **3028298980**
+- **Email:** (**keivervladimir@gmail.com**)
+- **LinkedIn:** (**www.linkedin.com/in/keiver-rumbo-656598433**)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
-
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+**Panadero**
+**Coll Center**
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+**Analisis y desarrollo de software**
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Resulbo los problemas**
+- **Creativo**
+- **Organizador**
 
 ---
 
